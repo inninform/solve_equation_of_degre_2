@@ -1,0 +1,1 @@
+# solve_equation_of_degre_2
